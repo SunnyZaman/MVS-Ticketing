@@ -1,0 +1,5 @@
+Welcome to MVS Ticketing!
+Processing input file...
+Login accepted
+Error: you cannot execute the "login" command while already logged in. You will now be logged out.
+Logged out successfully
