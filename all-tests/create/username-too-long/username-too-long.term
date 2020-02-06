@@ -1,0 +1,5 @@
+Welcome to MVS Ticketing!
+Processing input file...
+Login accepted
+Error: failed to create user, username must be less than 15 characters
+Logged out successfully
