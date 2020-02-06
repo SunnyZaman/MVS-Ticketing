@@ -1,0 +1,5 @@
+Welcome to MVS Ticketing!
+Processing input file...
+Login accepted
+Error: failed to post tickets for sale, event title must be less than 25 characters
+Logged out successfully

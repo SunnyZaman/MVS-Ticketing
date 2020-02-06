@@ -1,0 +1,6 @@
+Welcome to MVS Ticketing!
+Processing input file...
+Login accepted
+Successfully posted tickets for sale: Drake Concert
+Error: cannot perform transactions with tickets right afer posting, please terminate the current session first
+Logged out successfully
