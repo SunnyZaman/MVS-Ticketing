@@ -1,0 +1,4 @@
+Welcome to MVS Ticketing!
+Processing input file...
+Successfully delete user: sunny
+Error: the specified user sunny does not exist in the system
